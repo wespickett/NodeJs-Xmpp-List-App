@@ -1,0 +1,23 @@
+{
+  "name": "Real-Time-List-Collaboration",
+  "version": "0.1.0",
+  "description": "Collaborate on lists and live updating",
+  "main": "app.js",
+  "dependencies": {
+    "connect-redis": "~1.4.5",
+    "express": "~3.2.6",
+    "mysql": "~2.0.0-alpha8",
+    "node-xmpp": "~0.5.3",
+    "node-stringprep": "~0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "collaboration"
+  ],
+  "author": "Wes",
+  "license": "BSD"
+}
